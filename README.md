@@ -23,10 +23,18 @@
 <!-- Connect -->
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="mailto:bipin.pariyar2002@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40"/></a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40"/></a>
-  <a href="https://twitter.com/" target="_blank"><img src="https://img.icons8.com/color/48/twitter.png" alt="Twitter" width="40"/></a>
-  <a href="https://facebook.com/" target="_blank"><img src="https://img.icons8.com/color/48/facebook.png" alt="Facebook" width="40"/></a>
+  <a href="mailto:bipin.pariyar2002@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bipin-pariyar-767782208/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40"/>
+  </a>
+  <a href="https://www.facebook.com/bipin.pariyar.568/" target="_blank">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" width="40"/>
+  </a>
+  <a href="https://www.instagram.com/pariyar_bipin/?__pwa=1" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram" width="40"/>
+  </a>
 </p>
 
 ---
